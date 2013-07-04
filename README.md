@@ -10,6 +10,8 @@ The model who was scanned is Rachael Replicant.
 All Rachael scans were scanned in by the 
 David scanner using structured light, then aligned and meshed together.
 
+Scans and post-processing were done by myself and one other.
+
 Rachael\_align1YES.stl 
 --------------------
 
