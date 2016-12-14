@@ -7,6 +7,10 @@ Scans were done via a [structured light David Scanner](http://www8.hp.com/us/en/
 
 The directory `altered_scans` are the cleaned and aligned scans used for the aligned models (`Fusion01.obj`, I believe).
 
-The scale should be 1:1 and units should be metric (mm).
+Here is a screenshot of the model in meshlab:
+
+![meshlab preview](view.png)
+
+The units should be in metric, where one unit represents 1mm.
 
 Original scans are provided along with the aligned and decimated versions of the model.
