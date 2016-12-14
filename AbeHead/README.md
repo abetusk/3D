@@ -7,7 +7,7 @@ Scans were done via [structured light David Scanner](http://www8.hp.com/us/en/ca
 
 Here is a screenshot of one of the aligned scans with a texture mapped onto it:
 
-[!quick view](view.png)
+![quick view](view.png)
 
 The scans were done in two sittings.  The first sitting was with the back of my head against a wall.  The second was with me laying face down and white paint in my
 hair so that fine detail could be picked up.  My age was 38 at the time of the scan.
