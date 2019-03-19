@@ -1,6 +1,8 @@
 3D
 ==
 
+![meshlab preview](view.png)
+
 3D models and other files relating to 3D.
 
 Unless otherwise explicitely stated, all models in this directory are [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
