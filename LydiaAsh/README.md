@@ -1,7 +1,7 @@
 Lydia Ash
 ---
 
-![meshlab preview](LydiaAsh-preview.png)
+![meshlab preview](LydiaAsh-snapshot.png)
 
 All 3d models in this directory, `LydiaAsh`, are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).  Please use them without restriction.
 
